@@ -1,0 +1,6 @@
+Changelog:
+
+-implemented support for w,a,s,d keys usage 
+-changed socket.emit setInterval (function() to allow for more frequent updates to the game not just by fps 
+-begun progress on server.js and game.js
+-finished general game
