@@ -1,5 +1,5 @@
 # node.nigar.io
-This is the beta preview of my project nigar.io @ version 1.1.0
+This is the beta preview of my project nigar.io @ version 0.1.0 Beta
 
 It is a game that is currently a Work in Progress and something that I am just doing in my free time.
 
