@@ -11,3 +11,7 @@ Version 0.1.1 Beta
 -testing of client input and server response
 -checking for bugs in code
 -EXPECT TO SEE UPDATE SHORTLY
+
+Version 0.1.2 Beta
+-discovered bug which allowed client to abuse an input glitch that allowed client to travel very quickly
+-bug patched
