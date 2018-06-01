@@ -1,5 +1,5 @@
 # node.nigar.io
-This is the beta preview of my project nigar.io @ version 0.1.0 Beta
+This is the beta preview of my project nigar.io @ version 0.1.1 Beta
 
 It is a game that is currently a Work in Progress and something that I am just doing in my free time.
 
@@ -9,7 +9,7 @@ Don't expect a frequent, regular timetable for nigar.io because I have school.
 
 Changelog at CHANGELOG.MD
 
-LAST UPDATE: 01-06-18
+LAST UPDATE: 01-06-18 7:00 PM AEDST
 
 Programming language: Javascript/HTML5
 
