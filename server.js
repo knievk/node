@@ -1,8 +1,3 @@
-/**
- * @fileoverview This is the server app script.
- * @author alvin@omgimanerd.tech (Alvin Lin)
- */
-
 const DEV_MODE = process.argv.indexOf('--dev') != -1;
 const FPS = 60;
 const PORT = process.env.PORT || 5000;
