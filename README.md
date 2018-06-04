@@ -7,7 +7,7 @@ The game is now functional and operational, expect to see release in future.
 
 Don't expect frequent and regular updates, I have school.
 
-A collaboartion with JPIE108 and knievk
+A collaboration with JPIE108 and knievk
 
 Last update: 4-05-18
 
