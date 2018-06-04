@@ -1,0 +1,27 @@
+Changelog:
+
+Version 0.1.0 Beta
+-implemented support for w,a,s,d keys usage
+-changed socket.emit setInterval (function() to allow for more frequent updates to the game not just by fps
+-begun progress on server.js and game.js
+-finished general game
+
+Version 0.1.1 Beta
+-first beta test on localhost
+-testing of client input and server response
+-checking for bugs in code
+-EXPECT TO SEE UPDATES SHORTLY
+
+Version 0.1.2 Beta
+-discovered bug which allowed client to abuse an input glitch that allowed client to travel very quickly
+-bug patched
+
+Version 0.1.3 Beta
+-added end of server.js to allow for localhosting with node.js
+-ready for another test on localhost:5000
+
+v1.0.0
+-added many new files and folders to make a functional game
+-ready for release
+-expect more changes before release
+-minimal
