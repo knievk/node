@@ -2,7 +2,7 @@
  * @fileoverview This is a class encapsulating the client side of the game,
  *   which handles the rendering of the lobby and game and the sending of
  *   user input to the server.
- * @author alvin.lin.dev@gmail.com (Alvin Lin)
+ * @author josh.nguy123@gmail.com
  */
 /**
  * Creates a Game on the client side to render the players and entities.
