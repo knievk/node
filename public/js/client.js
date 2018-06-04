@@ -1,6 +1,6 @@
 /**
  * @fileoverview Client side script
- * @author alvin@omgimanerd.tech (Alvin Lin)
+ * @author josh.nguy123@gmail.com (Alvin Lin)
  */
 
 $(document).ready(function() {

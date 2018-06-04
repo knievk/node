@@ -1,7 +1,7 @@
 /**
  * @fileoverview This is a utility class containing utility methods used on the
  * server and client.
- * @author alvin.lin.dev@gmail.com (Alvin Lin)
+ * @author josh.nguy123@gmail.com
  */
 
 /**
