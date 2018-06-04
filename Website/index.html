@@ -1,0 +1,30 @@
+<html>
+  <head>
+    <title>A Multiplayer Game</title>
+    <style>
+      canvas {
+        width: 800px;
+        height: 600px;
+        border: 5px solid #ffff;
+      }
+      body {
+        background-color: black;
+      }
+
+      h1 {
+        color: white;
+        font-family: "Calibri", ClearType, sans-serif;
+      }
+    </style>
+    <script src="/socket.io/socket.io.js"></script>
+  </head>
+  <body>
+    <center>
+   <p><h1>
+     A Multiplayer Game
+   </h1></p>
+     <canvas id="canvas"></canvas>
+   </center>
+  </body>
+  <script src="/static/game.js"></script>
+</html>
