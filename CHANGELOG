@@ -25,3 +25,12 @@ v1.0.0
 -ready for release
 -expect more changes before release
 -minimal
+
+v1.0.4
+-bugfixes
+
+v1.1.0 "The Web Update"
+-updated index.html and about.html for better navigation
+-edited README.md for v1.1.0
+-bugfixes
+-removed kebab
