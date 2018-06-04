@@ -1,6 +1,6 @@
 /**
  * @fileoverview Class handling the drawing of objects in the game.
- * @author kennethli.3470@gmail.com (Kenneth Li)
+ * @author josh.nguy123@gmail.com
  */
 
 /**
