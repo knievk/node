@@ -1,15 +1,45 @@
-doctype html
-
 html
-  head
-    title jsgame
-  body
-    canvas(id='canvas' width='800px' height='600px')
-  script(src='/socket.io/socket.io.js')
-  script(src='/public/bower/jquery/dist/jquery.min.js')
-  script(src='/shared/Util.js')
-  script(src='/public/js/game/Drawing.js')
-  script(src='/public/js/game/Game.js')
-  script(src='/public/js/game/Input.js')
-  script(src='/public/js/game/Sound.js')
-  script(src='/public/js/client.js')
+    head
+      title
+        A Multiplayer Game
+       style
+        canvas {
+          width: 800px;
+          height: 600px;
+          border: 8px solid #ffff;
+        }
+        body {
+          background-color: black;
+        }
+
+        h1 {
+          color: white;
+          font-family: "Calibri", ClearType, sans-serif;
+          font-size: 80px;
+        }
+        a {
+          color: white;
+          font-family: "Calibri", ClearType, sans-serif;
+          font-size: 20px;
+          text-decoration: none;
+        }
+    body
+      center
+     p
+      h1
+       A Multiplayer Game
+        canvas
+        script(src='/socket.io/socket.io.js')
+        script(src='/public/bower/jquery/dist/jquery.min.js')
+        script(src='/shared/Util.js')
+        script(src='/public/js/game/Drawing.js')
+        script(src='/public/js/game/Game.js')
+        script(src='/public/js/game/Input.js')
+        script(src='/public/js/game/Sound.js')
+        script(src='/public/js/client.js')
+        script(src="/static/game.js")
+       p
+       a href="about.html"More Info and Change Logs
+
+       p
+        a href="https://goo.gl/forms/BGGY85dGsrb83Ybd2"Give Us Feedback or Report a Bug
