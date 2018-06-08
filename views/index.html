@@ -1,26 +1,55 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>jsgame</title>
+  <title>A Multiplayer Game</title>
+  <style>
+    canvas {
+      width: 800px;
+      height: 600px;
+      border: 8px solid #ffff;
+    }
+    body {
+      background-color: black;
+    }
+
+    h1 {
+      color: white;
+      font-family: "Calibri", ClearType, sans-serif;
+      font-size: 80px;
+    }
+    a {
+      color: white;
+      font-family: "Calibri", ClearType, sans-serif;
+      font-size: 20px;
+      text-decoration: none;
+    }
+  </style>
 </head>
 <body>
+  <center>
+ <p><h1>
+   A Multiplayer Game
+ </h1></p>
   <canvas id="canvas" width="800px" height="600px">
+    <script src="/socket.io/socket.io.js">
+  </script>
+    <script src="/public/bower/jquery/dist/jquery.min.js">
+  </script>
+    <script src="/shared/Util.js">
+  </script>
+    <script src="/public/js/game/Drawing.js">
+  </script>
+    <script src="/public/js/game/Game.js">
+  </script>
+    <script src="/public/js/game/Input.js">
+  </script>
+    <script src="/public/js/game/Sound.js">
+  </script>
+    <script src="/public/js/client.js">
+  </script>
 </canvas>
-  <script src="/socket.io/socket.io.js">
-</script>
-  <script src="/public/bower/jquery/dist/jquery.min.js">
-</script>
-  <script src="/shared/Util.js">
-</script>
-  <script src="/public/js/game/Drawing.js">
-</script>
-  <script src="/public/js/game/Game.js">
-</script>
-  <script src="/public/js/game/Input.js">
-</script>
-  <script src="/public/js/game/Sound.js">
-</script>
-  <script src="/public/js/client.js">
-</script>
+<p><a href="about.html">More Info and Change Logs</a></p>
+<p><a href="https://goo.gl/forms/BGGY85dGsrb83Ybd2">Gives Us Feedback or Report a Bug</a></p>
+</center>
 </body>
 </html>
